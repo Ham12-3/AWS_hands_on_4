@@ -68,3 +68,16 @@ The lambda function to use with the eventbridge
 ![image](https://github.com/Ham12-3/AWS_hands_on_4/assets/93613316/1d9c6702-4413-4335-89af-5b2274cd7fab)
 
 
+#### Creation of a lambda function to connect with S3
+
+![image](https://github.com/Ham12-3/AWS_hands_on_4/assets/93613316/4426d7a2-d0a5-4300-97e4-be4b2f97b047)
+
+
+#### S3 bucket created finally
+
+![image](https://github.com/Ham12-3/AWS_hands_on_4/assets/93613316/ef00ce8a-4a6b-4b93-8b1c-91bbda17e321)
+
+#### The S3 is finally connected to it
+
+![image](https://github.com/Ham12-3/AWS_hands_on_4/assets/93613316/c79216d5-3454-47d1-9d49-f6369ea96996)
+
