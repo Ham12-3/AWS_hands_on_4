@@ -45,3 +45,26 @@
 }
 
 ```
+
+#### Creation of a dead letter queue to be able to get the meesage from an asynchronous configurations
+
+![image](https://github.com/Ham12-3/AWS_hands_on_4/assets/93613316/1077ee36-41f9-4d1f-8511-24ca9e83a4e8)
+
+![image](https://github.com/Ham12-3/AWS_hands_on_4/assets/93613316/0308c637-5021-4fc1-9c5b-79a443113699)
+
+![image](https://github.com/Ham12-3/AWS_hands_on_4/assets/93613316/621621c3-492c-4a90-8fdb-98bf6cfe9695)
+
+
+Creation of an eventbridge rule to connect the lambda with AWS eventbridge
+
+![image](https://github.com/Ham12-3/AWS_hands_on_4/assets/93613316/a2833069-6776-4dda-8d59-55f434b57ff5)
+
+The lambda function to use with the eventbridge
+
+![image](https://github.com/Ham12-3/AWS_hands_on_4/assets/93613316/bac434af-d603-4189-a985-361a58c01d6e)
+
+#### Finally created
+
+![image](https://github.com/Ham12-3/AWS_hands_on_4/assets/93613316/1d9c6702-4413-4335-89af-5b2274cd7fab)
+
+
