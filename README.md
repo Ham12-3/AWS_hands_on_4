@@ -81,3 +81,14 @@ The lambda function to use with the eventbridge
 
 ![image](https://github.com/Ham12-3/AWS_hands_on_4/assets/93613316/c79216d5-3454-47d1-9d49-f6369ea96996)
 
+
+
+#### Creation fo a lambda function to use with the SQS
+
+
+![image](https://github.com/Ham12-3/AWS_hands_on_4/assets/93613316/d95d6acb-ad03-454e-8362-a455eb5119b8)
+
+
+#### Creation of the SQS Queue
+![image](https://github.com/Ham12-3/AWS_hands_on_4/assets/93613316/5da8400a-910c-4310-8ab1-22b63f09739d)
+
