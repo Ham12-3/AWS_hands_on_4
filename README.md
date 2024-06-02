@@ -92,3 +92,17 @@ The lambda function to use with the eventbridge
 #### Creation of the SQS Queue
 ![image](https://github.com/Ham12-3/AWS_hands_on_4/assets/93613316/5da8400a-910c-4310-8ab1-22b63f09739d)
 
+
+#### Add a trigger to connect the SQS to the AWS Lambda function by enabling the trigger
+
+![image](https://github.com/Ham12-3/AWS_hands_on_4/assets/93613316/c0ca052b-efc0-4e4a-bae0-a4e1762d7e5b)
+
+#### Addition of premissions to make sure you have  the SQS read from the lambda function
+![image](https://github.com/Ham12-3/AWS_hands_on_4/assets/93613316/2ca777a5-74bb-425d-a52b-9a129d5f9478)
+
+
+#### Lambda finally connected(triggered) with the SQS Queue
+
+![image](https://github.com/Ham12-3/AWS_hands_on_4/assets/93613316/ac7c99f2-293a-4978-ae2a-78dd6e877ac2)
+
+
