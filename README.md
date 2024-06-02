@@ -106,3 +106,19 @@ The lambda function to use with the eventbridge
 ![image](https://github.com/Ham12-3/AWS_hands_on_4/assets/93613316/ac7c99f2-293a-4978-ae2a-78dd6e877ac2)
 
 
+#### Creation of a success and failure queue to add a destination to the lambda function
+
+![image](https://github.com/Ham12-3/AWS_hands_on_4/assets/93613316/13a3abd8-3a8d-4592-981e-8087f5344d62)
+
+#### Creation of a failure destination to the lambda function
+
+
+![image](https://github.com/Ham12-3/AWS_hands_on_4/assets/93613316/09b4097e-e593-4062-9170-6e699c452584)
+
+
+Now I  have both the success and the failure destination created for the lambda function
+
+![image](https://github.com/Ham12-3/AWS_hands_on_4/assets/93613316/4514e7c3-a072-44c5-9ada-77002812c31e)
+
+
+
